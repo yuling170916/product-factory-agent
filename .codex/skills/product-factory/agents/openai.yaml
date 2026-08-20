@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品工厂"
+  short_description: "把已确认的 PRD 按十阶段流程推进为可验证产品版本"
+  default_prompt: "使用 $product-factory 根据这份 PRD 创建并推进产品研发流程。"
